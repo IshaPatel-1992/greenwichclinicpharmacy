@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7d396ce.css",
+    "main.js": "/static/js/main.989d868b.js",
+    "static/media/logopharmacy-Photoroom.jpg": "/static/media/logopharmacy-Photoroom.3c77e223ba0d04c9a483.jpg",
+    "static/media/Img5.jpeg": "/static/media/Img5.9397d30634a5388acd02.jpeg",
+    "index.html": "/index.html",
+    "main.d7d396ce.css.map": "/static/css/main.d7d396ce.css.map",
+    "main.989d868b.js.map": "/static/js/main.989d868b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d396ce.css",
+    "static/js/main.989d868b.js"
+  ]
+}
