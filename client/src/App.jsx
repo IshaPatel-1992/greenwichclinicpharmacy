@@ -1,18 +1,22 @@
 import React from 'react';
-import './App.css';
+import Navbar from './components/Navbar';
+import HeroSection from './components/HeroSection';
+import AboutSection from './components/AboutSection';
+import ServicesSection from './components/ServicesSection';
+import ContactSection from './components/ContactSection';
+import Footer from './components/Footer';
 
-function App() {
+export default function App() {
   return (
-    <div className="text-center bg-green-100 min-h-screen">
-      <header className="bg-green-700 text-white p-6">
-        <h1 className="text-3xl font-bold">Greenwich Medical Clinic & Pharmacy</h1>
-      </header>
-      <main className="p-8">
-        <p className="text-lg">Welcome to our clinic. Your health is our priority.</p>
+    <>
+      <Navbar />
+      <main className="pt-[72px]">
+        <HeroSection />
+        <AboutSection />
+        <ServicesSection />
+        <ContactSection />
       </main>
-      <footer className="bg-yellow-400 text-white p-4 text-sm">© 2025 Greenwich Pharmacy</footer>
-    </div>
+      <Footer />
+    </>
   );
 }
-
-export default App;
