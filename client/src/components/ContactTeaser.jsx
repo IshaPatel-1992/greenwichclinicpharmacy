@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function ContactTeaser() {
   return (
     <section className="py-12 bg-white text-center px-6">

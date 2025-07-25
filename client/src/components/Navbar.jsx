@@ -1,5 +1,4 @@
-// Navbar.jsx
-import React, { useState } from "react";
+import React, { useState } from 'react';
 import logo from "../assets/LogoEdit1.png";
 import { FaBars, FaTimes } from "react-icons/fa";
 

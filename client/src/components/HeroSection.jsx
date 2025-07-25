@@ -1,4 +1,4 @@
-import React from 'react';
+
 import heroImage from '../assets/banners/b7.png';   //Update with your actual path
 
 export default function HeroSection() {

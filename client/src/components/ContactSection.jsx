@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt, FaDirections } from 'react-icons/fa';
 
 export default function ContactSection() {

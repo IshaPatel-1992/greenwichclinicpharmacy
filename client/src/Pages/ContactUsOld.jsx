@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 
 export default function ContactUs() {
   const [form, setForm] = useState({ name: '', email: '', message: '' });
